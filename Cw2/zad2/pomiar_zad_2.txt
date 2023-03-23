@@ -1,0 +1,6 @@
+Test 500000 linijek * 100 znaków
+Loading one char at a time: 
+Real time: 0.000376, User time: 0.000354, System time: 0.000008
+Loading blocks: 
+Real time: 0.000011, User time: 0.000006, System time: 0.000004
+Files tmp2 and test.txt are identical

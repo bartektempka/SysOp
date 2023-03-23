@@ -1,0 +1,18 @@
+Test
+
+
+
+
+
+
+
+
+
+cumulative size: 35085
+     101 1.txt
+       9 2.txt
+   33556 dirSize
+     618 main.c
+     796 makefile
+       5 pomiar_zad_3.txt
+   35085 total

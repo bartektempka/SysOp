@@ -1,0 +1,37 @@
+./main .. #include
+file path: ../zad3/main.c 
+ pid: 78241
+file path: ../zad2/main.c 
+ pid: 78240
+file path: ../zad1/main.c 
+ pid: 78242
+
+
+./main . #include
+file path: ./main.c 
+ pid: 78248
+
+
+./main ../.. #include
+file path: ../../Cw1/zad3a/lib.c 
+ pid: 78255
+file path: ../../Cw3/zad3/main.c 
+ pid: 78260
+file path: ../../Cw3/zad2/main.c 
+ pid: 78257
+file path: ../../Cw1/zad2/lib.c 
+ pid: 78259
+file path: ../../Cw2/zad4/main.c 
+ pid: 78258
+file path: ../../Cw2/zad2/main.c 
+ pid: 78256
+file path: ../../Cw3/zad1/main.c 
+ pid: 78262
+file path: ../../Cw1/zad1/lib.c 
+ pid: 78265
+file path: ../../Cw2/zad3/main.c 
+ pid: 78261
+file path: ../../Cw2/zad1/main.c 
+ pid: 78264
+file path: ../../Cw1/zad3b/lib.c 
+ pid: 78263

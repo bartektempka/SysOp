@@ -1,0 +1,6 @@
+Test 500000 linijek * 100 znaków "a" na "x"
+LIB TIMES:
+Real time: 0.000017, User time: 0.000009, System time: 0.000007
+SYS TIMES:
+Real time: 0.000012, User time: 0.000009, System time: 0.000001
+Files tmp and o.txt are identical

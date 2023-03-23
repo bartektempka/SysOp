@@ -1,0 +1,11 @@
+Proces potomny 0, PID: 20427, PPID: 20426
+Proces potomny 1, PID: 20428, PPID: 20426
+Proces potomny 2, PID: 20429, PPID: 20426
+Proces potomny 3, PID: 20430, PPID: 20426
+Proces potomny 4, PID: 20431, PPID: 20426
+Proces potomny 5, PID: 20432, PPID: 20426
+Proces potomny 6, PID: 20433, PPID: 20426
+Proces potomny 7, PID: 20434, PPID: 20426
+Proces potomny 8, PID: 20435, PPID: 20426
+Proces potomny 9, PID: 20436, PPID: 20426
+10

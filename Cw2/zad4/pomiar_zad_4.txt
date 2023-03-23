@@ -1,0 +1,22 @@
+Test
+.//makefile 848
+.//pomiar_zad_4.txt 5
+.//main.c 408
+.//2.txt 9
+.//1.txt 101
+.//main.dSYM/Contents/Resources/DWARF/main 11821
+.//main.dSYM/Contents/Info.plist 633
+.//dirSize 33540
+.//tmp/3.txt 9
+cumulative size: 47374
+     848 .//makefile
+     222 .//pomiar_zad_4.txt
+     408 .//main.c
+       9 .//2.txt
+     101 .//1.txt
+   11821 .//main.dSYM/Contents/Resources/DWARF/main
+     633 .//main.dSYM/Contents/Info.plist
+   33540 .//dirSize
+       9 .//tmp/3.txt
+   47591 total
+diffrence is due to saving result of ./dirSize in file

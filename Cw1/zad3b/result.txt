@@ -1,0 +1,575 @@
+result_static_O0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000001
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000001
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_static_O
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000001
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000001
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000001, System time: 0.000000
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_static_O1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000001
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_static_O2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000001
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000001, System time: 0.000001
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_static_O3
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000001
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_static_Os
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000000
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000001
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000002, User time: 0.000001, System time: 0.000001
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_shared_O0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000001
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_shared_O
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000001
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000002, User time: 0.000001, System time: 0.000001
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_shared_O1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000001
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_shared_O2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000001
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000002, User time: 0.000001, System time: 0.000001
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_shared_O3
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000001
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_shared_Os
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000001
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000002, User time: 0.000001, System time: 0.000001
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_dynamic_O0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000001
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000000
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000001, System time: 0.000001
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_dynamic_O
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000001
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000001
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000001, System time: 0.000000
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_dynamic_O1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000001
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000000
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_dynamic_O2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000003, User time: 0.000000, System time: 0.000001
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000001
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000001, System time: 0.000000
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_dynamic_O3
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000001
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000002, User time: 0.000000, System time: 0.000001
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000001, System time: 0.000000
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+
+result_dynamic_Os
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+./main.c
+     111     289    3336 ./main.c
+
+Real time: 0.000003, User time: 0.000000, System time: 0.000001
+./lib.c
+      68     160    1550 ./lib.c
+
+Real time: 0.000001, User time: 0.000000, System time: 0.000001
+./lib.h
+      14      42     292 ./lib.h
+
+Real time: 0.000001, User time: 0.000001, System time: 0.000000
+     111     289    3336 ./main.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      68     160    1550 ./lib.c
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+      14      42     292 ./lib.h
+
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 0
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 1
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+deleted index: 2
+Real time: 0.000000, User time: 0.000000, System time: 0.000000
+Freeing memory...
+Real time: 0.000000, User time: 0.000000, System time: 0.000000

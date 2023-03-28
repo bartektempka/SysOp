@@ -1,0 +1,30 @@
+ignore
+Child process here still staying stong
+
+handler
+Odebrano sygnal SIGUSR1 w 62348
+Odebrano sygnal SIGUSR1 w 62349
+Child process here still staying stong
+
+mask
+Signal blocked: 1 PID: 62353
+Child process here still staying stongSignal blocked: 1 PID: 62354
+
+
+pending
+Parent, Signal blocked: 1 PID: 62358
+Child, Signal blocked: 0 PID: 62359
+
+
+execIgnore
+
+
+execMask
+Exec process, Signal blocked: 1
+
+execPending
+Exec process, Signal blocked: 1
+
+Wnioski: 
+Process potomny dziedziczy maski sygnałów i obsługe sygnałów ale nie dziedziczy sygnałów oczekujących.
+Exec() dziedziczy za to sygnały nieobsłóżone ale nie obsługe sygnałów.

@@ -1,0 +1,5 @@
+PASS: allocation count
+PASS: allocation size
+PASS: fork exec
+PASS: create pipe
+PASS: writing to pipe
